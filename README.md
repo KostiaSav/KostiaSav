@@ -3,6 +3,20 @@
 
 <h2>🗺️ Top languages:</h2>
 
+<p>
+
+I'm a frontend developer and freelance web programmer, dedicated to crafting engaging and responsive web applications using Html, Css, Javascript, Typecsript, React, Node.js, and Next.js. With one year of hands-on experience in React, I've successfully delivered projects for various clients, enhancing user satisfaction, performance, and security by implementing best practices, testing tools, and optimization techniques.
+
+</p>
+
+<h2>🚀 Who am I? 🚀</h2>
+
+<p>
+
+I’m a self-educated web programmer passionate about learning new technologies and honing my skills. Currently, I am pursuing a Bachelor of Engineering degree in Computer Science at Odessa National Academy of Food Technologies, expecting to graduate in 2026. I'm also deeply invested in studying algorithm theory, enabling me to solve complex problems and write efficient code. Furthermore, I am working diligently to reach an upper-intermediate level in English, allowing me to communicate effectively with a broader range of clients and collaborators.
+  
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KostiaSav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔎 Contact Information:
