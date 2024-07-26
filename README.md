@@ -3,6 +3,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KostiaSav)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KostiaSav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔎 Contact Information:
 
 - 📧 Email: prodan.konstantin.dev@gmail.com
