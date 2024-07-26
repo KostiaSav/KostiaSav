@@ -1,5 +1,7 @@
-<h1 align="center">Hi, my name is Kostya</h1>
-<h2 align="center">And yes, I'm a Frontend Developer</h2>
+<h1 align="center"> 😃 Hi, my name is Kostya</h1>
+<h2 align="center"> 👨‍💻 And yes, I'm a Frontend Developer</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔎 Contact Information:
 
