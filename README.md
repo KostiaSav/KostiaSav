@@ -1,7 +1,7 @@
 <h1 align="center"> 😃 Hi, my name is Kostya</h1>
 <h2 align="center"> 👨‍💻 And yes, I'm a Frontend Developer</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KostiaSav)](https://github.com/anuraghazra/github-readme-stats)
+<h2>🗺️ Top languages:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KostiaSav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
