@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi, my name is Kostya</h1>
+<h2 align="center">And yes, I'm a Frontend Developer</h2>
+
+## 🔎 Contact Information:
+
+- 📧 Email: prodan.konstantin.dev@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/prodan-kostiantyn/
+- 🚀 Telegram: https://t.me/developerKostya
 
 <!--
 **KostiaSav/KostiaSav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
