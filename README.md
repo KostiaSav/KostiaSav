@@ -1,8 +1,5 @@
 <h1 align="center"> 😃 Hi, my name is Kostya</h1>
 <h2 align="center"> 👨‍💻 And yes, I'm a Frontend Developer</h2>
-
-<h2>🗺️ Top languages:</h2>
-
 <p>
 
 I'm a frontend developer and freelance web programmer, dedicated to crafting engaging and responsive web applications using Html, Css, Javascript, Typecsript, React, Node.js, and Next.js. With one year of hands-on experience in React, I've successfully delivered projects for various clients, enhancing user satisfaction, performance, and security by implementing best practices, testing tools, and optimization techniques.
